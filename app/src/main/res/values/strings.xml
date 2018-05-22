@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sightseeing</string>
+    <string name="place_prompt">Selecione um local:</string>
+    <string name="travel">Viajar!</string>
+</resources>
